@@ -1,13 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+//Simport './App.css';
+import { Route, Switch } from 'react-router-dom'
+import HomePage from './pages/HomePage'
+import ContactPage from './pages/ContactPage'
+import ServicesPage from './pages/ServicesPage'
+import ReviewPage from './pages/ReviewPage'
+import DoctorPage from './pages/DoctorPage'
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-     <h1>hello!</h1>
-    </div>
-  );
-}
-
-export default App;
+    <Switch>
+      <Route exact path="/"   component={HomePage} />
+      <Route path="/contact"  component={ContactPage} />
+      <Route path="/services" component={ServicesPage} />
+      <Route path="/review"   component={ReviewPage} />
+      <Route path="/meet"   component={DoctorPage} />
+    </Switch>
+  )}
