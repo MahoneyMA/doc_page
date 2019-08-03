@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/doc_page/static/css/main.f202bb3d.chunk.css",
-    "main.js": "/doc_page/static/js/main.d62cfd4d.chunk.js",
-    "main.js.map": "/doc_page/static/js/main.d62cfd4d.chunk.js.map",
+    "main.css": "/doc_page/static/css/main.06f291d3.chunk.css",
+    "main.js": "/doc_page/static/js/main.e34acde4.chunk.js",
+    "main.js.map": "/doc_page/static/js/main.e34acde4.chunk.js.map",
     "runtime~main.js": "/doc_page/static/js/runtime~main.51e5759d.js",
     "runtime~main.js.map": "/doc_page/static/js/runtime~main.51e5759d.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/doc_page/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.a3e05034.chunk.js": "/doc_page/static/js/2.a3e05034.chunk.js",
-    "static/js/2.a3e05034.chunk.js.map": "/doc_page/static/js/2.a3e05034.chunk.js.map",
+    "static/js/2.97e0cd9d.chunk.js": "/doc_page/static/js/2.97e0cd9d.chunk.js",
+    "static/js/2.97e0cd9d.chunk.js.map": "/doc_page/static/js/2.97e0cd9d.chunk.js.map",
     "index.html": "/doc_page/index.html",
-    "precache-manifest.52f79e7142a5a46211261e11be52e11f.js": "/doc_page/precache-manifest.52f79e7142a5a46211261e11be52e11f.js",
+    "precache-manifest.a7c4a3dfcbfdfeb72b3924edd7bb98ac.js": "/doc_page/precache-manifest.a7c4a3dfcbfdfeb72b3924edd7bb98ac.js",
     "service-worker.js": "/doc_page/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/doc_page/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.f202bb3d.chunk.css.map": "/doc_page/static/css/main.f202bb3d.chunk.css.map",
+    "static/css/main.06f291d3.chunk.css.map": "/doc_page/static/css/main.06f291d3.chunk.css.map",
     "static/media/1.jpg": "/doc_page/static/media/1.0e273a0b.jpg",
     "static/media/2.jpg": "/doc_page/static/media/2.e4e657d8.jpg",
     "static/media/3.jpg": "/doc_page/static/media/3.d15ae6db.jpg",
     "static/media/AoAn.jpg": "/doc_page/static/media/AoAn.b90d2765.jpg",
     "static/media/doc.jpg": "/doc_page/static/media/doc.eb26a4f2.jpg",
-    "static/media/doc2.jpg": "/doc_page/static/media/doc2.e5cca120.jpg"
+    "static/media/doc2.jpg": "/doc_page/static/media/doc2.e5cca120.jpg",
+    "static/media/smallerdoc.jpg": "/doc_page/static/media/smallerdoc.4781122d.jpg"
   }
 }
