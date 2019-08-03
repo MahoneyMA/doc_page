@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/doc_page/static/css/main.a64b609e.chunk.css",
-    "main.js": "/doc_page/static/js/main.3e3dcd56.chunk.js",
-    "main.js.map": "/doc_page/static/js/main.3e3dcd56.chunk.js.map",
+    "main.css": "/doc_page/static/css/main.20636deb.chunk.css",
+    "main.js": "/doc_page/static/js/main.7794d3eb.chunk.js",
+    "main.js.map": "/doc_page/static/js/main.7794d3eb.chunk.js.map",
     "runtime~main.js": "/doc_page/static/js/runtime~main.51e5759d.js",
     "runtime~main.js.map": "/doc_page/static/js/runtime~main.51e5759d.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/doc_page/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.4281da3c.chunk.js": "/doc_page/static/js/2.4281da3c.chunk.js",
-    "static/js/2.4281da3c.chunk.js.map": "/doc_page/static/js/2.4281da3c.chunk.js.map",
+    "static/js/2.a3e05034.chunk.js": "/doc_page/static/js/2.a3e05034.chunk.js",
+    "static/js/2.a3e05034.chunk.js.map": "/doc_page/static/js/2.a3e05034.chunk.js.map",
     "index.html": "/doc_page/index.html",
-    "precache-manifest.3c4df74149f21b04db2f2cb1ede1b7fa.js": "/doc_page/precache-manifest.3c4df74149f21b04db2f2cb1ede1b7fa.js",
+    "precache-manifest.617b9ebaa17e4623b35544a1b2b2b7b4.js": "/doc_page/precache-manifest.617b9ebaa17e4623b35544a1b2b2b7b4.js",
     "service-worker.js": "/doc_page/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/doc_page/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.a64b609e.chunk.css.map": "/doc_page/static/css/main.a64b609e.chunk.css.map",
-    "static/media/1.jpg": "/doc_page/static/media/1.7aaa6df5.jpg",
-    "static/media/2.jpg": "/doc_page/static/media/2.6fd1c4c3.jpg",
-    "static/media/3.jpg": "/doc_page/static/media/3.49c0126e.jpg",
+    "static/css/main.20636deb.chunk.css.map": "/doc_page/static/css/main.20636deb.chunk.css.map",
+    "static/media/1.jpg": "/doc_page/static/media/1.0e273a0b.jpg",
+    "static/media/2.jpg": "/doc_page/static/media/2.e4e657d8.jpg",
+    "static/media/3.jpg": "/doc_page/static/media/3.d15ae6db.jpg",
     "static/media/AoAn.jpg": "/doc_page/static/media/AoAn.b90d2765.jpg",
-    "static/media/doc.jpg": "/doc_page/static/media/doc.eb26a4f2.jpg"
+    "static/media/doc.jpg": "/doc_page/static/media/doc.eb26a4f2.jpg",
+    "static/media/doc2.jpg": "/doc_page/static/media/doc2.e5cca120.jpg"
   }
 }
